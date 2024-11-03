@@ -13,7 +13,7 @@ License
 Fully responsive design that adjusts to desktop, tablet, and mobile devices.
 Simple and elegant navigation bar.
 devfolio menu section with images and descriptions.
-"About Us" section to share the restaurant’s story.
+"About Us" section to share the devfolio story.
 Footer with social media links and business information.
 ## Demo
 You can check out the live version of this project at: Live Demo
